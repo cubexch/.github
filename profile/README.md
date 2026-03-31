@@ -1,4 +1,4 @@
-<img src="https://cube.exchange/assets/cube-logo-white.png" alt="Cube Exchange" width="200" />
+<img src="https://cube.exchange/assets/cube-logo-white.png" alt="Cube Exchange" width="40" />
 
 ### The first crypto exchange with a fully automated AI trading desk.
 
